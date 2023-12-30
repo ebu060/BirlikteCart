@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BirlikteCart.Core\BirlikteCart.Core.csproj" />
+  </ItemGroup>
+
 </Project>
